@@ -1,6 +1,6 @@
 # todoey
 
-A ToDo lisst App Made With Flutter.
+A ToDo List App Made With Flutter.
 
 ## Getting Started
 
