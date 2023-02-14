@@ -1,6 +1,6 @@
 # todoey
 
-A new Flutter project.
+A ToDo lisst App Made With Flutter.
 
 ## Getting Started
 
